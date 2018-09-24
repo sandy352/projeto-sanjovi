@@ -1,0 +1,46 @@
+form:not(.emprestimo){
+	width: 500px;
+	margin: 5vw auto;
+}
+body{
+	width: 100vw;
+	height: 100vh;
+}
+.table-box{
+	width: 80vw;
+	margin: 4em auto;
+	text-align: center;
+}
+table{
+	width:100%;
+	text-align: center;
+}
+table td{
+	text-align: center;
+}
+.table th{
+	text-align: center;
+}
+
+button[type="submit"]:not(.button-emprestimo){
+	margin-top: 1vw ;
+}
+
+input{
+	margin-bottom: 10px;
+}
+
+.breadcrumb{
+	padding: 4vh 5vw;
+}
+.emprestimo{
+	width: 200px;
+	margin: 1vw auto;
+}
+
+nav{
+	padding: 1em 1em;
+	width: 100%;
+	margin: 0 1em;
+	margin-bottom: 1em; 
+}
